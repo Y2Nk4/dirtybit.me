@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: DirtyBit | DirtyBit.me
-header-img: img/home-bg.jpg
+header-img: images/header-tiny.jpg
 email: me@y2nk4.com
 description: ""
 keyword: ""
@@ -40,12 +40,12 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Disqus settings
-disqus_username: hexo-theme-huxblog
+disqus_username: dirtybit-1
 
 # Duoshuo settings
 # duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 # Analytics settings
@@ -58,8 +58,8 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我要成为魔法师!"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I am Y2Nk4 a UB CS undergrad student, check out my GitHub profile for details!"
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
@@ -132,5 +132,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Kaijun/hexo-theme-huxblog
+  repo: https://github.com/Y2Nk4/dirtybit.me
   branch: gh-pages
