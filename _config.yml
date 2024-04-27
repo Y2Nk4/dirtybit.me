@@ -4,7 +4,7 @@
 
 # Site
 title: DirtyBit
-subtitle: 
+subtitle:
 author: Y2Nk4
 language:
 timezone:
@@ -28,11 +28,11 @@ keyword: ""
 
 # SNS settings
 # RSS: false
-weibo_username:     
-zhihu_username:     
+weibo_username:
+zhihu_username:
 github_username:    Y2Nk4
-twitter_username:   
-facebook_username:  
+twitter_username:
+facebook_username:
 linkedin_username:  gjiahao
 
 # Build settings
@@ -50,10 +50,10 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+ba_track_id:
 # Google Analytics
 ga_track_id:            # Format: UA-xxxxxx-xx
-ga_domain: 
+ga_domain:
 
 
 # Sidebar settings
@@ -126,7 +126,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huxblog
+theme: ZenMind
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
